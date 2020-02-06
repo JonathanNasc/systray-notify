@@ -1,6 +1,6 @@
 # Systray Notify 
 
-A icon in the tray area, that change its color when a external api return something you need to be notified
+An icon in the tray area that changes its color whenever an external api return something you need to be notified
 
 ## Try
 
